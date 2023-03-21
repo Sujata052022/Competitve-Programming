@@ -14,9 +14,9 @@ Observe that once it reaches 1, it will do like the following oscillation <br>
 So, when it converges to 1, or does it?
 So investigate the problem in certain details as much as possible with occasional exercises and some computer problems using any programming language.
 <br> Let's start by playing with some numbers and observe what is happening actually.
-<br>N=12    <&nbsp><&nbsp><&nbsp>  12 6 3 10 5 16 8 4 2 1
-<br>N=22      <&nbsp><&nbsp><&nbsp>22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
-<br>N=3        <&nbsp><&nbsp><&nbsp>3 10 5 16 8 4 2 1
+<br>N=12    &nbsp;&nbsp;&nbsp  12 6 3 10 5 16 8 4 2 1
+<br>N=22      &nbsp; &nbsp;&nbsp; 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+<br>N=3       &nbsp;&nbsp;&nbsp; 3 10 5 16 8 4 2 1
 <br><br> Algorithm to generate a sequence of numbers:
 <ul><li>
 Start with an integer n. </li>
